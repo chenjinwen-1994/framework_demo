@@ -1,0 +1,24 @@
+2018-05-04 10:43:51,727 - browser_engine.py[line:16] - INFO: you have select Firefox browser
+2018-05-04 10:43:51,728 - browser_engine.py[line:18] - INFO: test url is: http://www.baidu.com
+2018-05-04 10:44:06,279 - browser_engine.py[line:22] - INFO: starting Firefox browser 
+2018-05-04 10:44:06,445 - browser_engine.py[line:31] - INFO: open http://www.baidu.com
+2018-05-04 10:44:07,922 - browser_engine.py[line:33] - INFO: max browser
+2018-05-04 10:44:08,571 - base_page.py[line:54] - INFO: 成功定位到元素
+2018-05-04 10:44:09,048 - base_page.py[line:101] - INFO: 成功输入：selenium
+2018-05-04 10:44:09,224 - base_page.py[line:62] - INFO: 成功定位到元素
+2018-05-04 10:44:09,474 - base_page.py[line:110] - INFO: 点击元素
+2018-05-04 10:44:13,312 - base_page.py[line:34] - INFO: 截图成功保存在screenshots目录下
+2018-05-04 10:44:13,342 - base_page.py[line:54] - INFO: 成功定位到元素
+2018-05-04 10:44:13,605 - base_page.py[line:101] - INFO: 成功输入：webdriver
+2018-05-04 10:44:13,743 - base_page.py[line:62] - INFO: 成功定位到元素
+2018-05-04 10:44:13,969 - base_page.py[line:110] - INFO: 点击元素
+2018-05-04 10:44:17,382 - base_page.py[line:34] - INFO: 截图成功保存在screenshots目录下
+2018-05-04 10:44:18,707 - browser_engine.py[line:16] - INFO: you have select Firefox browser
+2018-05-04 10:44:18,707 - browser_engine.py[line:18] - INFO: test url is: http://www.baidu.com
+2018-05-04 10:44:31,362 - browser_engine.py[line:22] - INFO: starting Firefox browser 
+2018-05-04 10:44:31,633 - browser_engine.py[line:31] - INFO: open http://www.baidu.com
+2018-05-04 10:44:32,339 - browser_engine.py[line:33] - INFO: max browser
+2018-05-04 10:44:33,068 - base_page.py[line:110] - INFO: 点击元素
+2018-05-04 10:44:35,479 - base_page.py[line:110] - INFO: 点击元素
+2018-05-04 10:44:38,825 - base_page.py[line:110] - INFO: 点击元素
+2018-05-04 10:44:42,852 - base_page.py[line:34] - INFO: 截图成功保存在screenshots目录下
